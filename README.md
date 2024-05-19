@@ -1,9 +1,11 @@
-# IAL_2
-Druhá domácí úloha do předmětu Algoritmy.
+# IAL Project 2: Hashtable & Binary Tree
+- Author: Tomáš Dolák 
+- Login: [xdolak09](https://www.vut.cz/lide/tomas-dolak-247220)
+- Email: <xdolak09@stud.fit.vutbr.cz>
 
-Úkolem bylo doplnit těla funkcí v souborech hashtable.c, btree.c (iterativně),btree.c (rekurzivně) a exa.c.
+Second homework for the Algorithms course. The task was to complete the bodies of the functions in the files hashtable.c, btree.c (iteratively),btree.c (recursively) and exa.c.
 
-hashtable: tabulka s rozptýlenými položkami<br>
-btree/rec: binární vyhledávací strom a operace nad ním implementované rekurzivně<br>
-btree/iter: binární vyhledávací strom a operace nad ním implementované iterativně<br> 
-btree/exa: jednoduché použití a vybalancování binárního vyhledávacího stromu<br>
+hashtable: table with dispersed entries<br>
+btree/rec: binary search tree and operations on it implemented recursively<br>
+btree/iter: binary search tree and operations on it implemented iteratively<br>
+btree/exa: simple use and balancing of the binary search tree<br>
